@@ -1,0 +1,16 @@
+C:\Users\You\source\repos\TESTTCP\TESTTCP\bin\Debug\TESTTCP.exe.config
+C:\Users\You\source\repos\TESTTCP\TESTTCP\bin\Debug\TESTTCP.exe
+C:\Users\You\source\repos\TESTTCP\TESTTCP\bin\Debug\TESTTCP.pdb
+C:\Users\You\source\repos\TESTTCP\TESTTCP\obj\Debug\TESTTCP.csproj.AssemblyReference.cache
+C:\Users\You\source\repos\TESTTCP\TESTTCP\obj\Debug\TESTTCP.ClientsDetails.resources
+C:\Users\You\source\repos\TESTTCP\TESTTCP\obj\Debug\TESTTCP.Main.resources
+C:\Users\You\source\repos\TESTTCP\TESTTCP\obj\Debug\TESTTCP.Properties.Resources.resources
+C:\Users\You\source\repos\TESTTCP\TESTTCP\obj\Debug\TESTTCP.csproj.GenerateResource.cache
+C:\Users\You\source\repos\TESTTCP\TESTTCP\obj\Debug\TESTTCP.csproj.CoreCompileInputs.cache
+C:\Users\You\source\repos\TESTTCP\TESTTCP\obj\Debug\TESTTCP.exe
+C:\Users\You\source\repos\TESTTCP\TESTTCP\obj\Debug\TESTTCP.pdb
+C:\Users\You\source\repos\TESTTCP\TESTTCP\bin\Debug\System.Data.SqlClient.dll
+C:\Users\You\source\repos\TESTTCP\TESTTCP\bin\Debug\System.Data.SqlClient.xml
+C:\Users\You\source\repos\TESTTCP\TESTTCP\obj\Debug\TESTTCP.csproj.CopyComplete
+C:\Users\You\source\repos\TESTTCP\TESTTCP\obj\Debug\TESTTCP.CabeceraDetails.resources
+C:\Users\You\source\repos\TESTTCP\TESTTCP\obj\Debug\TESTTCP.BuscarClient.resources

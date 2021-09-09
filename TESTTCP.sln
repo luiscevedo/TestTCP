@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TESTTCP", "TESTTCP\TESTTCP.csproj", "{9723A76C-8FA5-496B-89BD-03B1FCE9AC95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9723A76C-8FA5-496B-89BD-03B1FCE9AC95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9723A76C-8FA5-496B-89BD-03B1FCE9AC95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9723A76C-8FA5-496B-89BD-03B1FCE9AC95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9723A76C-8FA5-496B-89BD-03B1FCE9AC95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7598BD9C-1EE7-4128-933A-EFA2861475B2}
+	EndGlobalSection
+EndGlobal
